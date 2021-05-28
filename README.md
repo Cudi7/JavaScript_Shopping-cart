@@ -2,7 +2,7 @@
 
 # Live demo
 
-> https:....
+> https://pensive-mccarthy-f9998a.netlify.app
 
 ![Design preview for the  coding challenge](./Screenshot_1.jpg)
 ![Design preview for the  coding challenge](./Screenshot_2.jpg)
