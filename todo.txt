@@ -1,0 +1,15 @@
+Shopping Cart
+
+- Display product list
+
+- ✅Add product 
+- ✅change quantities
+- ✅ Save to localStorage
+
+- View Cart
+    - ✅Delete product
+    - ✅Edit quantity
+    - ✅ View Total
+
+
+
